@@ -1,0 +1,251 @@
+[
+  {
+    "src": "https://www.alura.com.br/assets/api/cursos/html5-css3-primeiros-passos.svg"
+  },
+  {
+    "src": "https://www.alura.com.br/assets/api/cursos/html5-css3-posicionamento-listas-navegacao.svg"
+  },
+  {
+    "src": "https://www.alura.com.br/assets/api/cursos/html5-css3-formularios-tabelas.svg"
+  },
+  {
+    "src": "https://www.alura.com.br/assets/api/cursos/html5-css3-avancando-css.svg"
+  },
+  {
+    "src": "https://www.alura.com.br/assets/api/cursos/web-design-responsivo.svg"
+  },
+  {
+    "src": "https://www.alura.com.br/assets/api/cursos/css-grid-layout.svg"
+  },
+  {
+    "src": "https://www.alura.com.br/assets/api/cursos/guia-estilos-paginas-componentes.svg"
+  },
+  {
+    "src": "https://www.alura.com.br/assets/api/cursos/posicione-elementos-com-flexbox.svg"
+  },
+  {
+    "src": "https://www.alura.com.br/assets/api/cursos/bootstrap-criacao-single-page-responsiva.svg"
+  },
+  {
+    "src": "https://www.alura.com.br/assets/api/cursos/bootstrap-landing-page.svg"
+  },
+  {
+    "src": "https://www.alura.com.br/assets/api/cursos/chrome-devtools.svg"
+  },
+  {
+    "src": "https://www.alura.com.br/assets/api/cursos/arquitetura-css.svg"
+  },
+  {
+    "src": "https://www.alura.com.br/assets/api/cursos/acessibilidade-web-design-inclusivos.svg"
+  },
+  {
+    "src": "https://www.alura.com.br/assets/api/cursos/acessibilidade-web-front-end.svg"
+  },
+  {
+    "src": "https://www.alura.com.br/assets/api/cursos/acessibilidade-web-front-end-parte-2.svg"
+  },
+  {
+    "src": "https://www.alura.com.br/assets/api/cursos/http-fundamentos.svg"
+  },
+  {
+    "src": "https://www.alura.com.br/assets/api/cursos/email-marketing-responsivo-parte-1.svg"
+  },
+  {
+    "src": "https://www.alura.com.br/assets/api/cursos/email-marketing-responsivo-parte-2.svg"
+  },
+  {
+    "src": "https://www.alura.com.br/assets/api/cursos/svg-css-animacao.svg"
+  },
+  {
+    "src": "https://www.alura.com.br/assets/api/cursos/projeto-carreira-front-end.svg"
+  },
+  {
+    "src": "https://www.alura.com.br/assets/api/cursos/front-end-ui-paralaxe-carrossel.svg"
+  },
+  {
+    "src": "https://www.alura.com.br/assets/api/cursos/mobile-first-layouts-responsivos.svg"
+  },
+  {
+    "src": "https://www.alura.com.br/assets/api/cursos/react-js.svg"
+  },
+  {
+    "src": "https://www.alura.com.br/assets/api/cursos/react-ciclo-de-vida.svg"
+  },
+  {
+    "src": "https://www.alura.com.br/assets/api/cursos/react-function-components.svg"
+  },
+  {
+    "src": "https://www.alura.com.br/assets/api/cursos/react-hooks-e-formularios.svg"
+  },
+  {
+    "src": "https://www.alura.com.br/assets/api/cursos/angularjs-mvc.svg"
+  },
+  {
+    "src": "https://www.alura.com.br/assets/api/cursos/angular-fundamentos.svg"
+  },
+  {
+    "src": "https://www.alura.com.br/assets/api/cursos/angular-autenticacao.svg"
+  },
+  {
+    "src": "https://www.alura.com.br/assets/api/cursos/angular-upload-build.svg"
+  },
+  {
+    "src": "https://www.alura.com.br/assets/api/cursos/angular-lapidando-projeto.svg"
+  },
+  {
+    "src": "https://www.alura.com.br/assets/api/cursos/angular-unit-test.svg"
+  },
+  {
+    "src": "https://www.alura.com.br/assets/api/cursos/testes-protractor.svg"
+  },
+  {
+    "src": "https://www.alura.com.br/assets/api/cursos/mean-javascript.svg"
+  },
+  {
+    "src": "https://www.alura.com.br/assets/api/cursos/angular-rxjs-introducao-programacao-reativa.svg"
+  },
+  {
+    "src": "https://www.alura.com.br/assets/api/cursos/angular-introducao-componentes-acessibilidade.svg"
+  },
+  {
+    "src": "https://www.alura.com.br/assets/api/cursos/angular-avancando-componentes-acessibilidade.svg"
+  },
+  {
+    "src": "https://www.alura.com.br/assets/api/cursos/javascritpt-orientacao-objetos.svg"
+  },
+  {
+    "src": "https://www.alura.com.br/assets/api/cursos/javascript-introducao.svg"
+  },
+  {
+    "src": "https://www.alura.com.br/assets/api/cursos/javascript-programando-na-linguagem-web.svg"
+  },
+  {
+    "src": "https://www.alura.com.br/assets/api/cursos/javascript-polimorfismo.svg"
+  },
+  {
+    "src": "https://www.alura.com.br/assets/api/cursos/expressoes-regulares.svg"
+  },
+  {
+    "src": "https://www.alura.com.br/assets/api/cursos/validacao-javascript-html5.svg"
+  },
+  {
+    "src": "https://www.alura.com.br/assets/api/cursos/javascript-es6-orientacao-a-objetos-parte-1.svg"
+  },
+  {
+    "src": "https://www.alura.com.br/assets/api/cursos/javascript-es6-orientacao-a-objetos-parte-2.svg"
+  },
+  {
+    "src": "https://www.alura.com.br/assets/api/cursos/javascript-es6-orientacao-a-objetos-parte-3.svg"
+  },
+  {
+    "src": "https://www.alura.com.br/assets/api/cursos/spa-javascript-puro.svg"
+  },
+  {
+    "src": "https://www.alura.com.br/assets/api/cursos/javascript-manipulacao-dom.svg"
+  },
+  {
+    "src": "https://www.alura.com.br/assets/api/cursos/ecmascript-novidades.svg"
+  },
+  {
+    "src": "https://www.alura.com.br/assets/api/cursos/api-rest-javascript.svg"
+  },
+  {
+    "src": "https://www.alura.com.br/assets/api/cursos/javascript-padroes-abordagem-funcional.svg"
+  },
+  {
+    "src": "https://www.alura.com.br/assets/api/cursos/javascript-desenvolvedor-poliglota.svg"
+  },
+  {
+    "src": "https://www.alura.com.br/assets/api/cursos/graphql.svg"
+  },
+  {
+    "src": "https://www.alura.com.br/assets/api/cursos/graphql-parte-dois.svg"
+  },
+  {
+    "src": "https://www.alura.com.br/assets/api/cursos/graphql-integrando-com-front-end.svg"
+  },
+  {
+    "src": "https://www.alura.com.br/assets/api/cursos/graphql-construindo-api-apollo-server.svg"
+  },
+  {
+    "src": "https://www.alura.com.br/assets/api/cursos/typescript-parte1.svg"
+  },
+  {
+    "src": "https://www.alura.com.br/assets/api/cursos/typescript-parte2.svg"
+  },
+  {
+    "src": "https://www.alura.com.br/assets/api/cursos/progressive-webapp-offline.svg"
+  },
+  {
+    "src": "https://www.alura.com.br/assets/api/cursos/google-charts-criando-graficos-para-a-web.svg"
+  },
+  {
+    "src": "https://www.alura.com.br/assets/api/cursos/google-charts-graficos-colunas-barras.svg"
+  },
+  {
+    "src": "https://www.alura.com.br/assets/api/cursos/google-charts-trabalhando-com-dados.svg"
+  },
+  {
+    "src": "https://www.alura.com.br/assets/api/cursos/projeto-carreira-javascript.svg"
+  },
+  {
+    "src": "https://www.alura.com.br/assets/api/cursos/js-web-armazenando-dados-navegador.svg"
+  },
+  {
+    "src": "https://www.alura.com.br/assets/api/cursos/vue-parte1.svg"
+  },
+  {
+    "src": "https://www.alura.com.br/assets/api/cursos/vue-parte2.svg"
+  },
+  {
+    "src": "https://www.alura.com.br/assets/api/cursos/electron.svg"
+  },
+  {
+    "src": "https://www.alura.com.br/assets/api/cursos/meteorjs.svg"
+  },
+  {
+    "src": "https://www.alura.com.br/assets/api/cursos/vuejs-protegendo-recursos-com-autenticacao-e-vuex.svg"
+  },
+  {
+    "src": "https://www.alura.com.br/assets/api/cursos/otimizacao-performance-web.svg"
+  },
+  {
+    "src": "https://www.alura.com.br/assets/api/cursos/performance-http2-critical-path.svg"
+  },
+  {
+    "src": "https://www.alura.com.br/assets/api/cursos/webpack.svg"
+  },
+  {
+    "src": "https://www.alura.com.br/assets/api/cursos/gruntjs.svg"
+  },
+  {
+    "src": "https://www.alura.com.br/assets/api/cursos/gulp.svg"
+  },
+  {
+    "src": "https://www.alura.com.br/assets/api/cursos/sass.svg"
+  },
+  {
+    "src": "https://www.alura.com.br/assets/api/cursos/less-css-simples-e-produtivo.svg"
+  },
+  {
+    "src": "https://www.alura.com.br/assets/api/cursos/testes-automatizados-em-javascript-com-jasmine.svg"
+  },
+  {
+    "src": "https://www.alura.com.br/assets/api/cursos/jquery-a-biblioteca-do-mercado.svg"
+  },
+  {
+    "src": "https://www.alura.com.br/assets/api/cursos/jquery-a-biblioteca-do-mercado-parte-2.svg"
+  },
+  {
+    "src": "https://www.alura.com.br/assets/api/cursos/plugin-wordpress-widget-shortcode.svg"
+  },
+  {
+    "src": "https://www.alura.com.br/assets/api/cursos/worpress-sites-elementor.svg"
+  },
+  {
+    "src": "https://www.alura.com.br/assets/api/cursos/wordpress-integracao-whatsapp.svg"
+  },
+  {
+    "src": "https://www.alura.com.br/assets/api/cursos/wordpress-criacao-tema-personalizado.svg"
+  }
+]
